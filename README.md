@@ -1,5 +1,11 @@
 ### Hi there ( ͡° ͜ʖ ͡°)
 
+<p align="center">
+  <a href="https://github.com/git-huunhan/">
+    <img src="https://github-contribution-stats.vercel.app/api/?username=git-huunhan" />
+  </a>
+</p>
+
 [![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=git-huunhan)](https://github.com/LordDashMe/github-contribution-stats/)
 
 <!--
