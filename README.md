@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=15&section=header)
+![header](https://capsule-render.vercel.app/api?type=rect&color=linear-gradient(to right, #fbadb0, #b2c9ee)&height=15&section=header)
 
 <p align="center">
   <a href="https://github.com/git-huunhan/">
