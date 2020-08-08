@@ -1,11 +1,11 @@
-![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=15&section=footer)
+![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=15&section=header)
 
 <p align="center">
   <a href="https://github.com/git-huunhan/">
     <img src="https://github-contribution-stats.vercel.app/api/?username=git-huunhan" />
   </a>
 </p>
-
+![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=15&section=footer)
 <!--
 **git-huunhan/git-huunhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
