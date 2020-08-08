@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=fbadb0&height=100&section=header)
+![header](https://capsule-render.vercel.app/api?type=wave&color=fbadb0,b2c9ee&height=100&section=header)
 
 <p align="center">
   <a href="https://github.com/git-huunhan/">
@@ -6,7 +6,7 @@
   </a>
 </p>
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=fbadb0&height=100&section=footer)
+![header](https://capsule-render.vercel.app/api?type=wave&color=fbadb0,b2c9ee&height=100&section=footer)
 <!--
 **git-huunhan/git-huunhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
