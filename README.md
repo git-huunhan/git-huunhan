@@ -1,5 +1,6 @@
+  <h2 align="center">Hello World!</h2>
+  
 <p align="center">
-  <h2 text-align="center">Hello World!</h2>
   <a href="https://github.com/git-huunhan/">
     <img src="https://github-contribution-stats.vercel.app/api/?username=git-huunhan" />
   </a>
