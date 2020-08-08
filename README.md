@@ -1,4 +1,4 @@
- <h3 align="center">Hello World!</h3>
+ <h3 align="center" color="#ffffff">Hello World!</h3>
   
 <p align="center">
   <a href="https://github.com/git-huunhan/">
