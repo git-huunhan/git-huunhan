@@ -2,8 +2,7 @@
   
 <p align="center">
   <a href="https://github.com/git-huunhan/">
-    <img src="https://github-contribution-stats.vercel.app/api/?username=git-huunhan" />
-    <img src="https://media2.giphy.com/media/11ZSwQNWba4YF2/giphy.webp?cid=ecf05e476qs703nuaxzx0sfs44w134w67v9s0d82am2asjg5&rid=giphy.webp" />
+    <img src="https://media0.giphy.com/media/3NtY188QaxDdC/200w.webp?cid=ecf05e47xfj6b77ya10z878hrkuu736bqghrkt9sl3lsemqs&rid=200w.webp" />
   </a>
 </p>
 
