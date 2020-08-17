@@ -1,7 +1,9 @@
 <p align="center">
+ <div style="border-radius:50%">
   <a href="https://github.com/git-huunhan/">
-    <img style="border-radius:50%" src="https://i.pinimg.com/originals/c0/b9/6f/c0b96f88966cb70633e5833ce5e05a8a.gif" />
+    <img src="https://i.pinimg.com/originals/c0/b9/6f/c0b96f88966cb70633e5833ce5e05a8a.gif" />
   </a>
+ </div>
 </p>
 
 <!--
