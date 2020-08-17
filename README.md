@@ -2,7 +2,7 @@
   
 <p align="center">
   <a href="https://github.com/git-huunhan/">
-    <img  src="https://i.pinimg.com/originals/c0/b9/6f/c0b96f88966cb70633e5833ce5e05a8a.gif" />
+    <img style="boder-radius:20px" src="https://i.pinimg.com/originals/c0/b9/6f/c0b96f88966cb70633e5833ce5e05a8a.gif" />
   </a>
 </p>
 
