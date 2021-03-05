@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://https://www.facebook.com/fb.huunhan">
+  <a href="https://www.facebook.com/fb.huunhan">
     <img src="https://i.ibb.co/WDh64G5/117599849-772343076871159-348895583812153328-n.png" />
   </a>
 </p>
