@@ -1,8 +1,8 @@
-<p align="center">
-  <a href="https://www.facebook.com/fb.huunhan">
-    <img src="https://i.ibb.co/WDh64G5/117599849-772343076871159-348895583812153328-n.png" />
-  </a>
-</p>
+### GitHub Stats
+<img src="https://github-readme-stats.vercel.app/api?username=git-huunhan&show_icons=true&theme=material-palenight"/>
+
+### Most Used Languages
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=git-huunhan&layout=compact&theme=material-palenight" />
 
 <!--
 **git-huunhan/git-huunhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
