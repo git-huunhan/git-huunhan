@@ -1,9 +1,9 @@
 ### GitHub Stats
-<hr/>
 <img src="https://github-readme-stats.vercel.app/api?username=git-huunhan&show_icons=true&theme=material-palenight"/>
 
-### Most Used Languages
 <hr/>
+
+### Most Used Languages
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=git-huunhan&layout=compact&theme=material-palenight" />
 
 <!--
