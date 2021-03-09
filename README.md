@@ -1,3 +1,4 @@
+<hr/>
 ### GitHub Stats
 <img src="https://github-readme-stats.vercel.app/api?username=git-huunhan&show_icons=true&theme=material-palenight"/>
 
@@ -5,7 +6,7 @@
 
 ### Most Used Languages
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=git-huunhan&layout=compact&theme=material-palenight" />
-
+<hr/>
 <!--
 **git-huunhan/git-huunhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -19,5 +20,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-- 😑 Chan wa
+- 😑 Love you
 -->
