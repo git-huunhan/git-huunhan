@@ -8,11 +8,8 @@
 ### Most Used Languages
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=git-huunhan&layout=compact&theme=material-palenight" />
 <hr/>
+
 <!--
-**git-huunhan/git-huunhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -21,5 +18,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-- 😑 Love you
+- 😑 
 -->
